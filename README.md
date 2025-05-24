@@ -1,33 +1,37 @@
 # 🚀 Code Foundations
 
-Welcome to my Code Academy learning repository! This collection showcases my journey through programming fundamentals.
+Welcome to my interactive learning journey through Code Academy! This repository documents my progress in learning programming fundamentals through hands-on exercises and projects.
 
 ## 📚 Overview
 
-A comprehensive collection of exercises, projects, and code snippets from my Code Academy curriculum, organized for optimal learning progression. Each lesson is documented with clear examples and explanations.
+This repository contains interactive animations and programming exercises from the Code Academy curriculum. Each lesson builds upon previous concepts, creating a structured learning path with practical examples.
 
 ## 🔧 Current Progress
 
-### Welcome to Codecademy Module
-1. Welcome Introduction
+### Module 1: Introduction to Programming
+1. Welcome Introduction (welcome-intro.js)
    - First interactive program
-   - Basic text display functions
-2. Write Your First Code
+   - Text display and animation basics
+2. Write Your First Code (first-code.js)
    - Interactive text manipulation
-   - Basic function calls
-3. Variables Basics
+   - Function calls introduction
+
+### Module 2: Programming Fundamentals
+3. Variables Basics (variables-basics.js)
    - Data storage concepts
-   - Variable manipulation
-4. Colors and Arrays
-   - Color manipulation
-   - Array fundamentals
-5. Basic Physics
-   - Introduction to animation
-   - Simple motion concepts
-6. Physics Animation
+   - Variable manipulation techniques
+4. Colors and Arrays (color-arrays.js)
+   - Color manipulation using HSL
+   - Array fundamentals and usage
+
+### Module 3: Animation & Physics
+5. Basic Physics (basic-physics.js)
+   - Introduction to animation principles
+   - Simple motion implementation
+6. Physics Animation (advanced-physics.js)
    - Advanced movement patterns
-   - Multiple object interaction
-7. Interactive Physics Controls
+   - Multiple object interactions
+7. Interactive Physics (interactive-physics.js)
    - User interaction implementation
    - Real-time physics adjustments
 
@@ -45,12 +49,14 @@ Each lesson includes:
 Primary Technologies:
 - JavaScript (Core animation engine)
 - HTML/CSS (Visual presentation)
-- Python (Additional programming concepts)
+- Interactive Animation Libraries
+- Physics Engine Integration
 
 Supporting Tools:
-- Interactive Animation Libraries
-- Physics Simulation Tools
-- Code Documentation Tools
+- Documentation Generator
+- Code Formatting Tools
+- Version Control (Git)
+- AI-Assisted Learning Tools
 
 ## 📖 Navigation Guide
 
