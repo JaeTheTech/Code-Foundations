@@ -1,83 +1,49 @@
-# 🚀 Code Foundations
+# 🚀 Code Foundations Learning Path
 
-Welcome to my interactive learning journey through Code Academy! This repository documents my progress in learning programming fundamentals through hands-on exercises and projects.
+Welcome to a structured learning journey through programming and computer science fundamentals.
 
-## 📚 Overview
+## 📚 Course Structure
 
-This repository contains interactive animations and programming exercises from the Code Academy curriculum. Each lesson builds upon previous concepts, creating a structured learning path with practical examples.
+### 1. Code Foundations Introduction
+- Welcome to Programming
+- Basic Concepts
+- How Computers Work
+- Introduction to Logic
 
-## 🔧 Current Progress
+### 2. Learn How to Code
+- Basics of Programming I
+- Basics of Programming II
+- Advanced Concepts
 
-### Module 1: Introduction to Programming
-1. Welcome Introduction (welcome-intro.js)
-   - First interactive program
-   - Text display and animation basics
-2. Write Your First Code (first-code.js)
-   - Interactive text manipulation
-   - Function calls introduction
+### 3. Computer Science
+- Data Structures
+- Algorithms
+- Computer Architecture
 
-### Module 2: Programming Fundamentals
-3. Variables Basics (variables-basics.js)
-   - Data storage concepts
-   - Variable manipulation techniques
-4. Colors and Arrays (color-arrays.js)
-   - Color manipulation using HSL
-   - Array fundamentals and usage
+### 4. Web Development
+- Frontend Basics
+- Backend Development
+- Full Stack Applications
 
-### Module 3: Animation & Physics
-5. Basic Physics (basic-physics.js)
-   - Introduction to animation principles
-   - Simple motion implementation
-6. Physics Animation (advanced-physics.js)
-   - Advanced movement patterns
-   - Multiple object interactions
-7. Interactive Physics (interactive-physics.js)
-   - User interaction implementation
-   - Real-time physics adjustments
+## 📝 How to Use This Repository
 
-## 📝 Documentation Standards
+1. Start with Module 1 and progress sequentially
+2. Complete all exercises in each section
+3. Review the documentation in each folder
+4. Practice with provided examples
+5. Build the suggested projects
 
-Each lesson includes:
-- Detailed code documentation
-- Step-by-step tutorials
-- Interactive examples
-- Clear learning objectives
-- Practice exercises
+## 🛠️ Tools Used
+- JavaScript
+- HTML/CSS
+- Python
+- Development Tools
 
-## 💻 Technical Stack
-
-Primary Technologies:
-- JavaScript (Core animation engine)
-- HTML/CSS (Visual presentation)
-- Interactive Animation Libraries
-- Physics Engine Integration
-
-Supporting Tools:
-- Documentation Generator
-- Code Formatting Tools
-- Version Control (Git)
-- AI-Assisted Learning Tools
-
-## 📖 Navigation Guide
-
-1. Start with Welcome module
-2. Follow numbered lessons sequentially
-3. Complete practice exercises
-4. Review documentation for each concept
-5. Experiment with provided examples
-
-## 🤖 AI-Enhanced Organization
-
-This repository utilizes AI to:
-- Structure content systematically
-- Maintain clear documentation
-- Ensure progressive learning flow
-- Standardize code formatting
-- Optimize lesson organization
-
-## 🌱 Future Development
-
-This is an evolving repository that grows with my learning journey. New concepts and exercises are added as I progress through the curriculum.
+## 🎯 Learning Objectives
+- Understand programming fundamentals
+- Learn computer science concepts
+- Develop practical coding skills
+- Build web applications
 
 ---
-💡 Created with passion during my Code Academy journey
+💡 Created for structured learning through Code Academy
