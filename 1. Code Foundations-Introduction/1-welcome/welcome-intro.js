@@ -13,7 +13,7 @@
  */
 
 // Draw some text to the screen.
-drawRainbow('Hi, I\'m JaeTheTech! and I\'m learning to code!');
+drawRainbow('Ready to Code?');
 
 // Animate the text!
 bounceBubbles();

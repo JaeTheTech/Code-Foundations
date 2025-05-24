@@ -10,11 +10,6 @@
  * - Arrays store multiple values using []
  * - HSL colors use numbers for hue(0-360), saturation(0-100), lightness(0-100)
  * - Variables can store arrays of colors
- * 
- * Instructions:
- * 1. Try changing the color values below
- * 2. Experiment with the hue (first number) in each color
- * 3. Watch how the animation cycles through colors
  */
 
 // Define colors using HSL values [hue, saturation, lightness]

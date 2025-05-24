@@ -11,13 +11,10 @@
  * 1. Find the drawName() function below
  * 2. Change the text inside the quotes ('') to your name
  * 3. Click 'Run' to see your name animated
- * 
- * Note: The code will be tested automatically. If there's an error,
- * you'll see it at the bottom of the editor.
  */
 
 // Change the text between the quotation marks to see your name animated!
-drawName('JaeTheTech');
+drawName('Enter your name here');
 
 // This enables the interactive animation
 bounceBubbles();
